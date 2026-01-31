@@ -2,7 +2,7 @@
 
 ## Upcoming Features
 
-### QR Attendance Export (Enhancement / Feature)
+### QR Attendance Export (Enhancement / Feature) – **Implemented**
 - **Goal**: Allow admins to export attendance data collected via QR scans.
 - **Details**:
   - Export formats: CSV and Excel.
